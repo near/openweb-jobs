@@ -2,7 +2,7 @@
 name: New job post
 about: Create a new job post within NEAR ecosystem
 title: 'Job: Job Title'
-labels: Job
+labels: job, review-pending
 assignees: ''
 
 ---
