@@ -13,6 +13,6 @@ DO NOT USE THIS REPOSITORY ISSUES DIRECTLY, for fully-featured access to open po
 - __Category:__ `engineering`|`design`|`customer-support`|`research`|`other`
 - __Location:__ `country:city`
 - __Remote:__ `no`|`yes`
-- __Required skills:__ `near-blockchain`|`node.js`|`nest`|`vue`|`javascript`|`other`
+- __Required skills:__ `near-blockchain`|`rust`|`node.js`|`vue`|`javascript`|`other`
 - __Description:__ Multi-line mark-down formatted job description.
 With details regarding company, position, duties, requirements, etc.
