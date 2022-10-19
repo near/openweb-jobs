@@ -2,9 +2,9 @@
 
 This repository hold job posts for [NEAR Protocol](https://near.org) ecosystem. All jobs organized in [its issues](https://github.com/near/openweb-jobs/issues). Please, follow our [ISSUE_TEMPLATE](https://github.com/near/openweb-jobs/blob/main/.github/ISSUE_TEMPLATE/new-job-post.md) when posting a new job.
 
-DO NOT USE THIS REPOSITORY ISSUES DIRECTLY, for fully-featured access to open positions and its management sign-in via [jobs.openweb.dev](https://jobs.openweb.dev/).
+DO NOT USE THIS REPOSITORY ISSUES DIRECTLY, for fully-featured access to open positions and its management sign-in via [jobs.nearspace.info](https://jobs.nearspace.info).
 
-![NEAR Job board](https://jobs.openweb.dev/social-1280x640.png)
+![NEAR Job board](https://jobs.nearspace.info/social-1280x640.png)
 
 ## JOB TEMPLATE
 
